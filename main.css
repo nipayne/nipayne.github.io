@@ -47,7 +47,7 @@ nav a{
 }
 
 nav li.current{
-background: white;
+background-color: white;
 }
 
 nav a:hover{
