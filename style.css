@@ -69,3 +69,13 @@ body{
     color: #b9b9b9;
   }
   
+  footer{
+    position: relative;
+     margin-top: 50px;
+     margin-bottom: 0px;
+     height: 40px;
+     clear: both;
+     
+     text-align: center;
+   
+   }
