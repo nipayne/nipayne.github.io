@@ -1,3 +1,17 @@
+a:link {
+  color: rgba(143,0,7,1);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgba(143,0,7,1);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+
+
 body{
     margin: 0;
     padding: 0;
